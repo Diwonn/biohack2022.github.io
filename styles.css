@@ -1,25 +1,29 @@
 .17_3 { 
 	overflow:hidden;
-}.e17_3 { 
+}
+.e17_3 { 
 	background-color:rgba(255, 255, 255, 1);
 	width:1512px;
 	height:1306px;
 	position:absolute;
-}.e23_6 { 
+}
+.e23_6 { 
 	opacity:0.20000000298023224;
 	width:1512px;
 	height:1202px;
 	position:absolute;
 	left:0px;
 	top:104px;
-}.e25_2 { 
+}
+.e25_2 { 
 	background-color:rgba(217.0000022649765, 217.0000022649765, 217.0000022649765, 0.30000001192092896);
 	width:1512px;
 	height:1202px;
 	position:absolute;
 	left:0px;
 	top:104px;
-}.e24_5 { 
+}
+.e24_5 { 
 	width:1512px;
 	height:1214px;
 	position:absolute;
@@ -28,9 +32,11 @@
 	background-image:url(images/938183_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.23_2 { 
+}
+.23_2 { 
 	border:1px solid rgba(0, 0, 0, 1);
-}.e23_2 { 
+}
+.e23_2 { 
 	width:952px;
 	height:580px;
 	position:absolute;
@@ -43,9 +49,11 @@
 	background-image:url(images/dna_background_blue_abstract_helix_biotechnology_hexagon_molecular_texture_229548_1324_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.23_5 { 
+}
+.23_5 { 
 	border:1px solid rgba(0, 0, 0, 1);
-}.e23_5 { 
+}
+.e23_5 { 
 	width:306px;
 	height:769px;
 	position:absolute;
@@ -58,16 +66,19 @@
 	background-image:url(images/dna_background_blue_abstract_helix_biotechnology_hexagon_molecular_texture_229548_1324_2.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.e17_19 { 
+}
+.e17_19 { 
 	background-color:rgba(30.81249911338091, 30.042187348008156, 30.042187348008156, 1);
 	width:1512px;
 	height:99px;
 	position:absolute;
 	left:0px;
 	top:0px;
-}.17_19 { 
+}
+.17_19 { 
 	border:1px solid rgba(0, 0, 0, 1);
-}.e17_20 { 
+}
+.e17_20 { 
 	color:rgba(164.6874949336052, 161.25650703907013, 161.25650703907013, 1);
 	width:81px;
 	height:41px;
@@ -78,7 +89,9 @@
 	text-align:left;
 	font-size:32px;
 	letter-spacing:0;
-}.e17_23 { 
+	text-decoration:none;
+}
+.e17_23 { 
 	color:rgba(181.68749392032623, 178.65937560796738, 178.65937560796738, 1);
 	width:185px;
 	height:29px;
@@ -89,28 +102,32 @@
 	text-align:left;
 	font-size:32px;
 	letter-spacing:0;
-}.e17_24 { 
+}
+.e17_24 { 
 	background-color:rgba(133.87499392032623, 132.20156371593475, 132.20156371593475, 1);
 	width:42px;
 	height:11px;
 	position:absolute;
 	left:1446px;
 	top:35px;
-}.e17_25 { 
+}
+.e17_25 { 
 	background-color:rgba(133.87499392032623, 132.20156371593475, 132.20156371593475, 1);
 	width:42px;
 	height:11px;
 	position:absolute;
 	left:1446px;
 	top:50px;
-}.e17_26 { 
+}
+.e17_26 { 
 	background-color:rgba(133.87499392032623, 132.20156371593475, 132.20156371593475, 1);
 	width:42px;
 	height:11px;
 	position:absolute;
 	left:1446px;
 	top:66px;
-}.e23_7 { 
+}
+.e23_7 { 
 	color:rgba(212.4999949336052, 0, 0, 1);
 	width:1406px;
 	height:181px;
@@ -121,7 +138,8 @@
 	text-align:left;
 	font-size:36px;
 	letter-spacing:0;
-}.e17_30 { 
+}
+.e17_30 { 
 	box-shadow:0px 4px 4px rgba(0, 0, 0, 0.25);
 	width:67px;
 	height:73px;
@@ -135,13 +153,15 @@
 	background-image:url(images/bf4f579bbfe26da5d9dc7fc2a0fe9f64_1.png);
 	background-repeat:no-repeat;
 	background-size:cover;
-}.17_30 { 
+}
+.17_30 { 
 	border:1px solid rgba(0, 0, 0, 1);
-}.e23_8 { 
+}
+.e23_8 { 
 	background-color:rgba(4.250000221654773, 3.984375, 3.984375, 1);
 	width:1469px;
 	height:4px;
 	position:absolute;
 	left:19px;
 	top:346px;
-}
+}
